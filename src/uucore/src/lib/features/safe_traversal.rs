@@ -9,7 +9,7 @@
 // Available on Unix
 //
 // spell-checker:ignore CLOEXEC RDONLY TOCTOU closedir dirp fdopendir fstatat openat REMOVEDIR unlinkat smallfile
-// spell-checker:ignore RAII dirfd fchownat fchown FchmodatFlags fchmodat fchmod mkdirat CREAT WRONLY ELOOP ENOTDIR
+// spell-checker:ignore RAII chownat dirfd fchownat fchown FchmodatFlags fchmodat fchmod mkdirat CREAT WRONLY ELOOP ENOTDIR
 // spell-checker:ignore atimensec mtimensec ctimensec
 
 #[cfg(test)]
